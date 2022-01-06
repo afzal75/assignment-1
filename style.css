@@ -1,0 +1,102 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.colum-1{
+    display: flex;
+    margin-bottom: 100px;
+}
+.content{
+    width: 50%;
+}
+.content img{
+    width: 80%;
+}
+.mission{
+    color: orange;
+}
+h1{
+    font-size: 60px;
+}
+
+#title{
+    border-left: 7px solid;
+    border-image: linear-gradient(tomato, tomato);
+    border-image-slice: 1;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.mission-title{
+    text-align: center;
+}
+.colum-2{
+    margin-bottom: 100px;
+}
+.blog{
+    display: flex;
+}
+.image{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 5%;
+}
+.image img{
+    width: 80%;
+}
+#image1{
+    background-color: #E2DED5;
+}
+#image2{
+    background-color: #F1D5F1;
+}
+#image3{
+    background-color: #F3CEB0;
+}
+.colum-3{
+    display: flex;
+    margin-bottom: 100px;
+}
+.content-1{
+    width: 50%;
+    
+}
+.content-1 img{
+    width: 80%;
+}
+.colum-4{
+    display: flex;
+    margin-bottom: 100px;
+}
+.content-2{
+    width: 50%;
+}
+.content-2 img{
+    width: 80%;
+}
+.colum-5{
+    display: flex;
+}
+.content-3{
+    width: 50%;
+}
+.colum-5 img{
+    width: 100%;
+    background-position: center;
+    padding-left: 30px;
+}
+.number{
+    color: tomato;
+}
+footer{
+    text-align: center;
+    background-color: #000;
+    color: white;
+}
